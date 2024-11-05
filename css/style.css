@@ -1,0 +1,171 @@
+.fa-solid{
+    margin-right:20px;
+    margin-left: 20px;
+}
+.fa-brands{
+    margin-left: 20px;
+}
+.fa-magnifying-glass{
+    font-size: 25px;
+    color:#eb6a2a;
+   
+}
+.fa-shopify{
+    margin-left: 5px;
+    font-size: 25px;
+    color:#eb6a2a;
+    margin-right: 110px;
+}
+.brands{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.bgs{
+    margin-bottom: 10px;
+}
+.watchimg{
+    
+    height: 70%;
+    width: 100%; 
+}
+.rate{
+    font-size: 30px;
+    font-weight: 500;
+    color: #eb6a2a;
+}
+.slide{
+    height: 100%;
+}
+.aspans{
+    text-decoration: line-through;
+    font-size: 25px;
+}
+.conts{
+    margin-top: 40px;
+}
+.button{
+    font-size: 14px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: black;
+    color: white;
+}
+.aspan{
+    display: inline-block;
+    text-decoration: line-through;
+}
+.branded{
+    height: 100px;
+}
+.actices{
+    color: #eb6a2a !important;
+}
+.country{
+    font-weight: 500;
+}
+.paras{
+    width: 135px;
+}
+.btn-primary{
+    background: #eb6a2a !important ;
+    border: none !important;
+}
+.btn-primary:hover{
+    background: green !important ;
+}
+.btn-success{
+    margin-top: 100px;
+    background: #eb6a2a !important ;
+    border: none !important;
+    transform:rotate(270deg);
+    font-size: 15px;
+    width: 130px;
+}
+.btn-info{
+    background: #eb6a2a !important ;
+    border: none !important;
+}
+.Faminino{
+    margin-top: 100px;
+}
+.fa-arrow-right{
+    margin-right:0px;
+    margin-left: 0px;
+    font-size: 20px;
+}
+#ending{
+    margin-top:60px;
+    background: #282828;
+    height: 130%;
+}
+.heading{
+    color: white;
+    margin-top: 40px;
+}
+.head{
+    text-align: right;
+}
+.relogio{
+    margin-left: 150px;
+}
+.demo{
+    height: 100%;
+    width: 80%;
+}
+.col-12 {
+    text-align: center;
+    background: white;
+}
+.col-sm-12{
+    background: white;
+}
+.col-md-12{
+    background: white;
+}
+.col-md-6{
+    text-align: center;
+}
+.col-lg-3{
+    text-align: center;
+    background: white;
+}
+.cls{
+    background: none;
+}
+.branding{
+    height: 200px;
+}
+.bonding{
+    height: 190px;
+}
+.common:hover{
+    box-shadow: 3px 12px 20px wheat;
+}
+.brandings{
+    height: 600px;
+}
+.rows{
+    margin-top: 10px;
+}
+.lllg{
+    margin-top: 20px;
+}
+
+
+
+
+.water1{
+    margin-left: 500px;
+}
+@media screen  and (min-width:0px)and (max-width:1200px){
+
+    body{
+       #preheader{
+        display: none !important;
+        }
+    }
+}
+
+
